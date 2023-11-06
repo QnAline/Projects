@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    background-color: aliceblue;
+}
+h3{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#question{
+    border: 2px solid rgb(78, 67, 48);
+    border-radius: 15px;
+    text-align: center;
+    width: 50%;
+    height: 0.1%;
+    margin: auto;
+    margin-top: 40px;
+    background-color: rgb(43, 43, 82);
+    color: white;
+}
+#answer{
+    border: 2px solid rgb(78, 67, 48);
+    border-radius: 15px;
+    text-align: center;
+    width: 50%;
+    height: 1%;
+    margin: auto;
+    margin-top: 40px;  
+    color: white;
+    margin-top: 100px;
+    background-color: rgb(43, 43, 82);
+}
+#button{
+    margin-top: 100px;
+    text-align: center;
+}
+button{
+    color: white;
+    background-color: rgb(69, 69, 78);
+    border-radius: 20px;
+    padding: 10px;
+}
+button:hover{
+    transform: scale(1.1);
+}
